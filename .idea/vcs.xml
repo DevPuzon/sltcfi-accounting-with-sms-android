@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AromaTrainModel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Baby monitoring/BabyMonitoringApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FloodDetection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GlucoseMonitoring-client-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GlucoseMonitoring-client-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GpsDetector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Home automation appliances detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HomeOnlineAutomation-IOT/OnlineHomeAutomation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quizure - sure/iLearnApi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quizure - sure/iLearnClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quizure - sure/iLearnClient - Copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Quizure - sure/new quizure/iLearnClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Thermal Scanner with mobile app - FightCOVID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heart-monitoring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/heart-monitoring-backup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sinatlgu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-call-face-expression-recognition/Video-Call-App-NodeJS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-call-face-expression-recognition/amazon-chime-sdk-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-call-face-expression-recognition/amazon-chime-sdk-js/demos/browser/node_modules/amazon-chime-sdk-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-call-face-expression-recognition/face-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-call-face-expression-recognition/mirotalk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/water-irrigation" vcs="Git" />
+  </component>
+</project>

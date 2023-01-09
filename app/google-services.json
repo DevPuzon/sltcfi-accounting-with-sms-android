@@ -1,0 +1,588 @@
+{
+  "project_info": {
+    "project_number": "208414469125",
+    "firebase_url": "https://prototypeproject-eeb91.firebaseio.com",
+    "project_id": "prototypeproject-eeb91",
+    "storage_bucket": "prototypeproject-eeb91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:5fb28ecb432bc9159a006c",
+        "android_client_info": {
+          "package_name": "com.app.sportsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-092cri1mdkcesgmu6p13t46kbuuvetef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sportsapp",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:252d1f14ae5e5aa49a006c",
+        "android_client_info": {
+          "package_name": "com.app.sportssoftwaresolutionph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-1lm44848ndicm610g73d2csl1s4mgc3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sportssoftwaresolutionph",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:7abf5644a200f7639a006c",
+        "android_client_info": {
+          "package_name": "com.example.courseware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-ii60uj8o4jl376upnuahjsp91uv3lfkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.courseware",
+            "certificate_hash": "7774d6b845be92dfab999a86ea1cb294c86fe5e7"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:2ff9f4ca3fdd70019a006c",
+        "android_client_info": {
+          "package_name": "com.example.statisticsprobabilty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-3kpvakvgbp8utt7ugonguaji4f45o8hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.statisticsprobabilty",
+            "certificate_hash": "7774d6b845be92dfab999a86ea1cb294c86fe5e7"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:7204f121e65f0b259a006c",
+        "android_client_info": {
+          "package_name": "com.quince.adminams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-n1blaqi1gl3ij1i4n6kqm8l8l2pl6htn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quince.adminams",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:cf485fb3e3d3d7a39a006c",
+        "android_client_info": {
+          "package_name": "com.quince.registeradmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-6s81rq8pj0ch5mdkoqclq14egsdub4hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quince.registeradmin",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:d1da4fe6ae239c5b9a006c",
+        "android_client_info": {
+          "package_name": "com.quince.studentams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-t412sgu5rtvf651f439o3ijfv23vdl52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quince.studentams",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:5d77bc3550b14e7e9a006c",
+        "android_client_info": {
+          "package_name": "com.quince.teacherams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-p8b2i0left8qfhn4en675m1an5i5rlae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quince.teacherams",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:d9adfab6186f32c79a006c",
+        "android_client_info": {
+          "package_name": "com.softwaresolution.glucosemonitoringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-n70b4ugf5c56o64lki11o45aqfjhgm1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwaresolution.glucosemonitoringapp",
+            "certificate_hash": "362e2a89977838716d1d4d5240937db3c056c8bc"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:25ca666892dc75f79a006c",
+        "android_client_info": {
+          "package_name": "com.softwaresolution.heartmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-kpikjpnn461iocfo7ku4umktp8u1mrtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwaresolution.heartmonitoring",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:ee7df8c2d9be13599a006c",
+        "android_client_info": {
+          "package_name": "com.softwaresolution.phhikers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-28jq01phgb00bjvfit4hk5cpm56ojv1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwaresolution.phhikers",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:ab248cc27e6462949a006c",
+        "android_client_info": {
+          "package_name": "com.softwaresolution.slftc_accounting_monitoring_with_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-05smaaahli5knfsggav8enr28d0nbje1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softwaresolution.slftc_accounting_monitoring_with_sms",
+            "certificate_hash": "5213cf97843411f6a673355db319b6e3600957f0"
+          }
+        },
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208414469125:android:ef3c01d8c026a7fd9a006c",
+        "android_client_info": {
+          "package_name": "com.softwaresolution.water_irrigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208414469125-rb9qudq0kjs0is5bft8argn5ma0od7m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NKhrdodprQwi0AxmVlAzmsVQcqjYYbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208414469125-3g6gsgs9k16r8b27vrtt4rkhanm9lk1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208414469125-773p3do5ghu2r67jjhp9cd4q0hsa7nmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sillimanios.sports",
+                "app_store_id": "123456"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
